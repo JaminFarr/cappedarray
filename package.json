@@ -1,6 +1,16 @@
 {
   "name": "cappedarray",
-  "description": "Creates Capped Arrays. They act like a normal arrays but items will automatically be removed to maintain the capped length",
-  "version": "0.1.0",
-  "main": "index.js"
+  "description": "A real array that automatically removes items to maintain the capped length",
+  "version": "0.1.1",
+  "author": "Ben Farr <jamin.farr@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "capped",
+    "array"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JaminFarr/cappedarray.git"
+  }
 }
