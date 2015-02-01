@@ -1,0 +1,6 @@
+{
+  "name": "cappedarray",
+  "description": "Creates Capped Arrays. They act like a normal arrays but items will automatically be removed to maintain the capped length",
+  "version": "0.1.0",
+  "main": "index.js"
+}
