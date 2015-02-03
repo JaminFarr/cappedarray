@@ -1,7 +1,7 @@
 {
   "name": "cappedarray",
   "description": "A real array that automatically removes items to maintain the capped length",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Ben Farr <jamin.farr@gmail.com>",
   "license": "MIT",
   "keywords": [
